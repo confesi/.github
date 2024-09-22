@@ -5,7 +5,7 @@
 - Over a thousand commits, many repositories, and hundreds-of-thousands of lines of code later, Confesi has been postponed indefinitely; _it's been an awesome journey_. **Special thanks to everyone who worked on it!**
 - [Here](https://matthewtrent.me/articles/state-of-confesi) is an article written about the current state of the project (as of February 2024).
 - [Contact us](mailto:dev@confesi.com) if you have any inquiries.
-- Many repositories are were never made "public-ready", but simply opened up now that the project is postponed. Thus, they're "messy" and in an "in-development" state.
+- Many repositories are were never "made public-ready", but simply opened up now that the project's development has been postponed indefinitely. Thus, they're "messy" and in an "in-development" state.
 
 ## Tech & Features
 
