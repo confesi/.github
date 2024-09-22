@@ -10,7 +10,7 @@
 
 ## Media
 
-Most images are now out-of-date, and lots of screens are missing, but here are a few screenshots of the working app mid-development:
+Most images are now out-of-date, and lots of screens are missing, but here are a few of the working app mid-development:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: auto;">
     <img src="https://raw.githubusercontent.com/mattrltrent/random_assets/main/IMG_1831-portrait.png" alt="app" style="width: 150px; height: auto;">
