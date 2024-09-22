@@ -5,6 +5,10 @@
 - Over a thousand commits, many repositories, and hundreds-of-thousands of lines of code later, Confesi has been postponed indefinitely; _it's been an awesome journey_. **Special thanks to everyone who worked on it!**
 - [Here](https://matthewtrent.me/articles/state-of-confesi) is an article written about the current state of the project (as of February 2024).
 - [Contact us](mailto:dev@confesi.com) if you have any inquiries.
+- Many repositories are were never made "public-ready", but simply opened up now that the project is postponed. Thus, they're "messy" and in an "in-development" state.
+
+## Tech & Features
+
 - **The project included:** infinite feeds, voting, threaded comments, trending/recents/sentiment-based content sorting, live anonymous chat, full authentication flows, hottest daily posts, achievements and badges, global user statistics, university leaderboards, profiles, curated content by individual campus, admin/mod roles, text/video/image uploads, iOS and Android support, deep settings and customization options/preferences, and much more.
 - **Tech used (in the final iteration)**: Gin, Hive, Drift, Dart, Figma, Docker, Firebase, HTML, CSS, Redis, GCP, AWS, testing frameworks, JavaScript, Edge & pub-sub functions, GitHub Actions, Git/GitHub, Webflow, Flutter, PostgreSQL, Go, cron jobs, and more.
 
