@@ -10,7 +10,7 @@
 
 ## Tech & Features
 
-- **The project included:** infinite feeds, voting, threaded comments, tailored notifications, trending/recents/sentiment-based content sorting, live anonymous chat, full authentication flows, hottest daily posts, achievements and badges, global user statistics, university leaderboards, profiles, curated content by individual campus, admin/mod roles, text/video/image uploads, iOS and Android support, deep settings and customization options/preferences, and much more.
+- **The project included:** infinite feeds, voting, threaded comments, tailored in-app notifications and emails, trending/recents/sentiment-based content sorting, live anonymous chat, full authentication flows, hottest daily posts, achievements and badges, global user statistics, university leaderboards, profiles, curated content by individual campus, admin/mod roles, text/video/image uploads, iOS and Android support, deep settings and customization options/preferences, and much more.
 - **Tech used (in the final iteration)**: Gin, Hive, Drift, Dart, Figma, Docker, Firebase, HTML, CSS, Redis, GCP, AWS, testing frameworks, JavaScript, Edge & pub-sub functions, GitHub Actions, Git/GitHub, Webflow, Flutter, PostgreSQL, Go, cron jobs, and more.
 
 ## Media
