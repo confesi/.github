@@ -7,6 +7,7 @@
 - [Here](https://matthewtrent.me/articles/state-of-confesi) is an article written about the current state of the project (as of February 2024).
 - [Contact us](mailto:dev@confesi.com) if you have any inquiries.
 - Many repositories here were never "made public-ready", but simply opened up now that the project's development has been postponed indefinitely. Thus, they're "messy" and in an "in-development" state.
+- The main two repositories are: [confesi-server](https://github.com/confesi/confesi-server) and [confesi-client](https://github.com/confesi/confesi-client).
 
 ## Tech & Features
 
