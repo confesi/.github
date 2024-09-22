@@ -3,9 +3,10 @@
 ## Metadata
 
 - Over a thousand commits, many repositories, and hundreds-of-thousands of lines of code later, Confesi has been postponed indefinitely; _it's been an awesome journey_. **Special thanks to everyone who worked on it!**
+- This GitHub Organization was created solely to act as an "archive" of all the code, and the assorted repositories were moved over from the private accounts they were under during development.
 - [Here](https://matthewtrent.me/articles/state-of-confesi) is an article written about the current state of the project (as of February 2024).
 - [Contact us](mailto:dev@confesi.com) if you have any inquiries.
-- Many repositories are were never "made public-ready", but simply opened up now that the project's development has been postponed indefinitely. Thus, they're "messy" and in an "in-development" state.
+- Many repositories here were never "made public-ready", but simply opened up now that the project's development has been postponed indefinitely. Thus, they're "messy" and in an "in-development" state.
 
 ## Tech & Features
 
