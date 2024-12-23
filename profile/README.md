@@ -8,6 +8,7 @@
 - [Contact us](mailto:dev@confesi.com) if you have any inquiries.
 - Many repositories here were never "made public-ready", but simply opened up now that the project's development has been postponed indefinitely. Thus, they're "messy" and in an "in-development" state.
 - The main two repositories are: [confesi-server](https://github.com/confesi/confesi-server) and [confesi-client](https://github.com/confesi/confesi-client).
+- In the side-bar it shows just one member, me. The other contributors seem to simply have their Confesi Organization membership private.
 
 ## Tech & Features
 
